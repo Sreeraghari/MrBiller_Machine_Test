@@ -1,0 +1,20 @@
+﻿# Build output directories
+bin/
+obj/
+
+# Visual Studio-specific files
+.vs/
+*.suo
+*.user
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Dependencies
+packages/
+node_modules/
+
+# Environment settings
+.env
+appsettings.Development.json
